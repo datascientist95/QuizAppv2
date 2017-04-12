@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4DD0E1</color>
+    <color name="colorPrimaryDark">#00BCD4</color>
+    <color name="colorAccent">#26C6DA</color>
+    <color name="question_text">#26C6DA</color>
+    <color name="questions">#26C6DA</color>
+    <color name="line">#26C6DA</color>
+    <color name="button">#26C6DA</color>
+    <color name="submit">#80CBC4</color>
+    <color name="reset">#FF7043</color>
+</resources>

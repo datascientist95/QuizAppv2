@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Quiz App</string>
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="name">Name</string>
+    <!-- Hint text display in the empty field for the question 1 [CHAR LIMIT=20] -->
+    <string name="question1">Question 1</string>
+    <!-- Hint text display in the empty field for the question 2 [CHAR LIMIT=20] -->
+    <string name="question2">Question 2</string>
+    <!-- Hint text display in the empty field for the question 3 [CHAR LIMIT=20] -->
+    <string name="question3">Question 3</string>
+    <!-- Hint text display in the empty field for the question 4 [CHAR LIMIT=20] -->
+    <string name="question4">Question 4</string>
+    <!-- Hint text display in the empty field for the question 5 [CHAR LIMIT=20] -->
+    <string name="question5">Question 5</string>
+
+    <!-- Hint text display in the empty field for the question 1 text  -->
+    <string name="question1_text">Who was Muhammad Ali?</string>
+    <!-- Hint text display in the empty field for the question 2 text  -->
+    <string name="question2_text">What is this animal?</string>
+    <!-- Hint text display in the empty field for the question 3 text  -->
+    <string name="question3_text">Which sport is a martial art?</string>
+    <!-- Hint text display in the empty field for the question 4 text  -->
+    <string name="question4_text">What is the result 45 *2 + 1 ?</string>
+    <!-- Hint text display in the empty field for the question 5 text  -->
+    <string name="question5_text">Who teach you Android developement?</string>
+
+    <!-- Hint text display in the empty field for the answers for question 1  [CHAR LIMIT=20] -->
+    <string name="dancer">Dancer</string>
+    <string name="actor">Actor</string>
+    <string name="boxer">Boxer</string>
+
+    <!-- Hint text display in the empty field for the answers for question 2  [CHAR LIMIT=20] -->
+    <string name="kangaroo">kangaroo</string>
+    <string name="rat">Rat</string>
+    <string name="camel">Camel</string>
+
+    <!-- Hint text display in the empty field for the answers for question 3  [CHAR LIMIT=20] -->
+    <string name="wing_chung">Wing Chung</string>
+    <string name="tai_sing">Tai Sing</string>
+    <string name="sambo">Sambo</string>
+    <string name="wiali_cuenku">Weali Cuenku</string>
+    <string name="jeet_kun_do">Jeet Kun Do</string>
+    <string name="ithwei_krei">Ithwei-Krei</string>
+
+    <!-- Hint text display in the empty field for the answers for question 4  [CHAR LIMIT=20] -->
+    <string name="type_here">Enter Result</string>
+
+    <!-- Hint text display in the empty field for the answers for question 5  [CHAR LIMIT=20] -->
+    <string name="udacity">Udacity</string>
+    <string name="yourgrandma">Grand Ma</string>
+    <string name="yourdog">Your Dog</string>
+
+    <!-- Hint text display in the empty field for the submit button  [CHAR LIMIT=20] -->
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+
+    <!-- Hint text display in the empty field for the submit button  [CHAR LIMIT=20] -->
+    <string name="yougot">you got</string>
+    <string name="score">score!</string>
+</resources>
